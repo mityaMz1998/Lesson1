@@ -9,6 +9,12 @@ namespace Lesson1
             Console.WriteLine("Hello World!");
             Console.WriteLine("How are you?");
             Console.WriteLine("How old are you?");
+            Sum(5,5);
+        }
+
+        static int Sum(int x, int y)
+        {
+            return x + y;
         }
     }
 }
