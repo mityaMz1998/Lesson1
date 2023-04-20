@@ -10,7 +10,7 @@ namespace Lesson1
             Console.WriteLine("How are you?");
             Console.WriteLine("How old are you?");
             Sum(5,5);
-            Sub(7,1);
+            Sub(7,4);
         }
 
         static int Sum(int x, int y)
