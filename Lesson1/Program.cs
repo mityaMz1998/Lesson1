@@ -7,11 +7,11 @@ namespace Lesson1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine(Sum(2, 3));
+            Console.WriteLine(Sum(2, 3, 4));
         }
-        static int Sum(int x, int y)
+        static int Sum(int x, int y, int z)
         {
-            return x + y;
+            return x + y + z;
         }
     }
 }
