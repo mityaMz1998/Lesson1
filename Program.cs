@@ -6,7 +6,7 @@ namespace Lesson1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!!!");
             Console.WriteLine("How are you?");
             Console.WriteLine("How old are you?");
             Sum(5,5);
